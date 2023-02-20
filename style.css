@@ -1,0 +1,25 @@
+.menu{
+   margin: 0 auto;
+   display: flex;
+   justify-content: center;
+ 
+}
+
+.menu>li{
+    list-style: none;
+    margin: 10px;
+}
+
+.menu>li>a{
+    color: brown;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.menu>li>a:hover{
+    color: black;
+}
+
+.basket{
+    text-decoration: none;
+}
